@@ -1,0 +1,21 @@
+{
+    "prefix": "!",
+    "botid": "BOT İD",
+    "token": "BOT TOKEN",
+    "ustyetkılı": "AKTİF, BAKIMDA, RESTART Komutları kullanacak yetkili",
+    "wlyetkılı": "Wlver Wlal yetkilisi",
+    "kayıtyetkilisi": "Kayıt yetkilisi",
+    "destekyetkilisi": "Destek yetkilisi",
+    "wlaçkapatyetkilisi": "Wlaç Wlkapat yetkilisi (Kanaları aç ve kapatacak yetkili)",
+    "rolveralyetkilisi": "rolver rolal yetkili",
+    "ip": "SUNUCU İP",
+    "ts3": "SUNNUCU TS3 İP",
+    "sunucuismi": "SUNUCU İSMİ",
+    "whitelist": "Whitelist rolü",
+    "kayıtsız": "Kayıtsız rolü",
+    "kayıtkanal": "Kayıt çağırma kanal",
+    "destekkanal": "Destek çağırma kanal",
+    "wlkayıtkanal": "Wlver Wlal Alacağı kanal",
+    "wlvermelog": "Wlverme wlalma log kanalı",
+    "rolverallog": "Rolver Rolal log kanalı"
+}
