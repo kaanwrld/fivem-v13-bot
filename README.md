@@ -8,4 +8,4 @@ iyi kullanımlar.
 4. başlat.bat basın ve botu açın iyi kullanımlar
 
 Bir hata olursa discord adresimize gelip sağ taraftan shareyy yani beni bulunuz.
-https://discord.gg/BgaAQknhTm
+https://discord.gg/a7kyWympEu
