@@ -7,5 +7,5 @@ iyi kullanımlar.
 3. npm i yazın
 4. başlat.bat basın ve botu açın iyi kullanımlar
 
-Bir hata olursa discord adresimize gelip sağ taraftan shareyy yani beni bulunuz.
-https://discord.gg/a7kyWympEu
+Bir hata olursa discord adresimize gelip sağ taraftan shareyxrd yani beni bulunuz.
+https://discord.gg/muhammed
